@@ -62,7 +62,7 @@ Everything is stored in ChromaDB for quick data retrieval.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/airesumejobparser.git
+   git clone https://github.com/yourusername/airesumejobparser.git](https://github.com/DamodarInTech/Resume-and-Cover-Letter-Generator)
    cd airesumejobparser
    ```
 2. Create a virtual environment (optional, but recommended):
