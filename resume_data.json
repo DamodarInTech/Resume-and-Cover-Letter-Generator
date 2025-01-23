@@ -1,0 +1,63 @@
+{
+    "Skills": [
+        "CC",
+        "C",
+        "MATLAB",
+        "Java",
+        "Python",
+        "Microsoft SharePoint",
+        "Excel",
+        "Access",
+        "Amazon Web Services",
+        "MySQL",
+        "OpenGL",
+        "Angular.js",
+        "Git"
+    ],
+    "Education": [
+        {
+            "Degree": "Bachelor of Science in Computer Science",
+            "University": "University of Illinois Chicago",
+            "Years": "Expected May 2026"
+        }
+    ],
+    "Work Experience": [
+        {
+            "Job Title": "Software Developer Intern",
+            "Company": "Savvo",
+            "Duration": "August 2024 - Present",
+            "Responsibilities": [
+                "Developed mobile iOS app to optimize user experience and integrate with partner APIs",
+                "Coded app in C, tested code, and deployed app by deliverable deadline",
+                "Assisted with development of Mapper function of the app to help users isolate products all over the world",
+                "Collaborated with other developers on the look and feel of the app using OpenGL"
+            ]
+        },
+        {
+            "Job Title": "IT Assistant",
+            "Company": "Technology Solutions UIC",
+            "Duration": "January 2023 - Present",
+            "Responsibilities": [
+                "Assist university faculty and staff with computer backups, webmail, network, printer issues, and upgrades",
+                "Manage a ticketing system for university personnel to submit issues, respond, and resolve reported issues",
+                "Conduct computer lab maintenance including replacing computers, software upgrades, and installations",
+                "Help to debug computers, eradicate viruses, and install antivirus software",
+                "Train new IT assistants on ACCC procedures and how to provide good customer service"
+            ]
+        }
+    ],
+    "Projects": [
+        {
+            "Title": "Elevator Control Software",
+            "Description": "Programmed concurrent elevator controller using C to maximize elevator usage efficiency and resiliency. Wrote highly efficient code to minimize CPU less than 1 and memory usage, optimizing deployment costs. Designed scripts to test the program performance, ensuring all available elevators are used efficiently and reducing passenger waiting time to 10 seconds or less. Wrote unit tests of all key functions to prevent regressions and ensure quality."
+        },
+        {
+            "Title": "Stock Market App",
+            "Description": "Developed a web application in a team of four that allows users to experience real-time stock trading. Performed a frontend and backend role on developing a data visualization of real-time stock data. Engineered web application using Java and MySQL, presented initial development in in-class presentation."
+        },
+        {
+            "Title": "Logic Programming",
+            "Description": "Presented with a problem in class and tasked with developing code to determine correct answer. Used monadic properties of lists to set up basic programming logic based on four variables. Determined possible outcomes and tested each combination to ensure they fit the constraint. Demonstrated project methodology to class via PowerPoint presentation."
+        }
+    ]
+}

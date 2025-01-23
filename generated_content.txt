@@ -1,0 +1,37 @@
+Here are the generated outputs:
+
+**Professional Cover Letter**
+
+Dear Hiring Manager,
+
+I am excited to apply for the Careers at ZAGG position, as advertised. With a strong background in data analysis and business analytics, I am confident that my skills and experience make me an ideal fit for this role.
+
+As a detail-oriented and results-driven professional, I have a proven track record of delivering actionable insights that drive business growth. My expertise in tools such as Python, SQL, Tableau, and Power BI has enabled me to analyze complex data sets and present findings in a clear and concise manner. Additionally, my experience in data modeling and Google Cloud Platform has allowed me to optimize data processing and improve system reliability.
+
+In my previous roles, I have demonstrated my ability to work collaboratively with cross-functional teams, manage multiple projects simultaneously, and communicate complex data insights to both technical and non-technical stakeholders. My experience as an Analytics Teaching Assistant has also honed my skills in leading discussions, grading assignments, and providing detailed feedback.
+
+I am particularly drawn to ZAGG's commitment to innovation and customer satisfaction. As a creator of mobile solutions, I believe that ZAGG's mission to "let people live life to the fullest" resonates with my own values of using data to drive positive change.
+
+Thank you for considering my application. I would welcome the opportunity to discuss how my skills and experience align with the requirements of this role.
+
+Sincerely,
+[Your Name]
+
+**Semi-Formal Email**
+
+Subject: Application for Careers at ZAGG
+
+Dear Hiring Team,
+
+I am excited to express my interest in the Careers at ZAGG position. With a strong background in data analysis and business analytics, I believe that my skills and experience make me a strong fit for this role.
+
+I am impressed by ZAGG's commitment to innovation and customer satisfaction, and I am excited about the opportunity to contribute to a company that is dedicated to making a positive impact. My expertise in tools such as Python, SQL, Tableau, and Power BI, as well as my experience in data modeling and Google Cloud Platform, has enabled me to drive business growth through data-driven insights.
+
+I would welcome the opportunity to discuss my application and how my skills align with the requirements of this role. Please feel free to contact me at your convenience.
+
+Best regards,
+[Your Name]
+
+**LinkedIn/WhatsApp Message**
+
+"Hi, I'm excited to apply for the Careers at ZAGG role! With a strong background in data analysis and business analytics, I believe I'd be a great fit. I'm drawn to ZAGG's commitment to innovation and customer satisfaction. Let's connect and discuss how my skills align with the role!"

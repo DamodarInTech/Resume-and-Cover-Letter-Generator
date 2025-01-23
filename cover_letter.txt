@@ -1,0 +1,31 @@
+Here are the cover letter and cold email based on the provided information:
+
+**Cover Letter:**
+
+Dear Hiring Manager,
+
+I am excited to apply for the Business Analyst position at Amazon, as advertised. With my strong background in data analysis, business insights, and project management, I am confident that I can make a valuable contribution to your team.
+
+As a recent Master's graduate in Business Analytics from the University of Illinois Chicago, I possess a solid understanding of data modeling, statistical tools, and data visualization techniques. My experience as an Analytics Teaching Assistant at the University of Illinois Chicago has equipped me with the ability to lead discussions, facilitate critical thinking, and provide detailed feedback. Additionally, my experience as a Business Analyst at Tredence Analytics has given me hands-on experience in analyzing critical advertising KPIs, creating interactive Tableau dashboards, and managing complex data-related issues on Google Cloud Platform.
+
+I am particularly drawn to this role at Amazon because of the opportunity to define requirements and use data and metrics to draw business insights. My experience with reporting and data visualization tools such as Tableau and Power BI aligns with the job requirements, and I am excited to bring my skills to a dynamic and innovative company like Amazon.
+
+Thank you for considering my application. I am confident that my skills and experience make me a strong fit for this role, and I look forward to discussing my qualifications further.
+
+Best,
+[Your Name]
+
+**Cold Email:**
+
+Dear Hiring Manager,
+
+I came across the Business Analyst position at Amazon and was impressed by the company's commitment to innovation and customer obsession. With my background in data analysis, business insights, and project management, I believe I can make a valuable contribution to your team.
+
+As a recent Master's graduate in Business Analytics, I possess a solid understanding of data modeling, statistical tools, and data visualization techniques. My experience in analyzing critical advertising KPIs, creating interactive Tableau dashboards, and managing complex data-related issues on Google Cloud Platform aligns with the job requirements.
+
+I am particularly drawn to this role because of the opportunity to define requirements and use data and metrics to draw business insights. I am excited to bring my skills to a dynamic and innovative company like Amazon and contribute to the company's mission to be Earth's most customer-centric company.
+
+Would you be open to discussing my qualifications further? I would appreciate the opportunity to learn more about the role and how I can contribute to the team.
+
+Best,
+[Your Name]
